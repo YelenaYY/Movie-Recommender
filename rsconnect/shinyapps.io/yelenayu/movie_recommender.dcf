@@ -1,0 +1,10 @@
+name: movie_recommender
+title:
+username: yelenayu
+account: yelenayu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10853661
+bundleId: 8100182
+url: https://yelenayu.shinyapps.io/movie_recommender/
+version: 1
